@@ -9,3 +9,5 @@
 
 
 /.docker/.env.nginx.local
+
+.env
